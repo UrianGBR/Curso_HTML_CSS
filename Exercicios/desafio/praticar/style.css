@@ -1,0 +1,23 @@
+ * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 10px;
+        }
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            font-size: 16px;
+            line-height: 1.5;
+       }
+       img{
+           width: 600%;
+            padding: 20px;
+           border-radius: 30px;
+       }
+       ul,ol{
+        text-align: justify;
+       }
+       h2{
+           text-align: left;
+           color: hsl(14, 45%, 36%);
+       }
