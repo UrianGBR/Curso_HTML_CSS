@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "html-css",
+		"path": "../.."
+	},
+	{
+		"name": "java script",
+		"path": "../../../java script"
+	},
+	{
+		"name": "desafio",
+		"path": "../desafio"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "java script"
+  }
+}
